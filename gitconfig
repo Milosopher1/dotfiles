@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = milo.carlton@spencer-perceval.com
+	name = Milo Carlton
